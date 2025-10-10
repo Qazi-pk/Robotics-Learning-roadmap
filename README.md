@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e90b140-4eb9-40d1-a102-930fd9a3dc92" />
+
 - # 🤖 Robotics Learning Roadmap — From Basics to Advanced
 
 Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
