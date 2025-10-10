@@ -23,7 +23,51 @@ including mathematical foundations, dynamics, tensors, Jacobians, Lagrangian & H
 - **Week 9:** Trajectory Planning and Motion Control  
 - **Week 10:** PyBullet Pick-and-Place Simulation  
 - **Week 11:** Reinforcement Learning for Robotics  
-- **Week 12:** Final Project Showcase  
+- **Week 12:** Final Project Showcase
+- # 🤖 Robotics Learning Roadmap — From Basics to Advanced
+
+Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
+
+---
+
+## 📚 Learning Goals
+By completing this roadmap, you will learn:
+
+- Foundations of **robotic motion**, **coordinate frames**, and **transformations**
+- How to derive **Jacobian matrices** for robotic arms
+- Using the **Lagrangian** and **Hamiltonian** formulations in robot dynamics
+- Understanding **tensors** and **covariant derivatives** in robotic mechanics
+- Simulating robots using **PyBullet**
+- Building symbolic and numerical solvers for real robotics systems
+
+---
+
+## 🚀 How to Use
+Each notebook is designed as a **Colab-ready** learning module.  
+Click the “Open in Colab” button under any topic to start coding and learning instantly.
+
+---
+
+## 🧠 Course Modules
+
+| # | Topic | Open in Colab |
+|---|--------|----------------|
+| 1 | Introduction to Robotics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/1_Introduction.ipynb) |
+| 2 | Forward and Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/2_Kinematics.ipynb) |
+| 3 | Dynamics of Robotic Manipulators | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/3_Dynamics.ipynb) |
+| 4 | Jacobians and Differential Motion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/4_Jacobians.ipynb) |
+| 5 | Lagrangian and Hamiltonian Formulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/5_Lagrangian_and_Hamiltonian.ipynb) |
+| 6 | Tensors and Covariant Mathematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/6_Tensors_and_Covariant_Math.ipynb) |
+| 7 | Robot Simulation in PyBullet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/7_Robot_Simulation_PyBullet.ipynb) |
+
+---
+
+## ⚙️ Setup (Optional for Local Use)
+If you want to run the notebooks locally, install dependencies with:
+
+```bash
+pip install numpy sympy matplotlib pybullet
+  
 
 ---
 
