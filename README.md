@@ -1,7 +1,6 @@
-# 🤖 Robotics Learning Roadmap (3-Month Plan)
+- # 🤖 Robotics Learning Roadmap — From Basics to Advanced
 
-Welcome to the **Robotics Learning Roadmap** — a complete 12-week journey from basic to advanced robotics,
-including mathematical foundations, dynamics, tensors, Jacobians, Lagrangian & Hamiltonian mechanics, and simulation projects.
+Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
 
 ---
 
@@ -24,9 +23,7 @@ including mathematical foundations, dynamics, tensors, Jacobians, Lagrangian & H
 - **Week 10:** PyBullet Pick-and-Place Simulation  
 - **Week 11:** Reinforcement Learning for Robotics  
 - **Week 12:** Final Project Showcase
-- # 🤖 Robotics Learning Roadmap — From Basics to Advanced
 
-Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
 
 ---
 
