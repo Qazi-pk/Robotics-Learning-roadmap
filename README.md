@@ -1,8 +1,8 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e90b140-4eb9-40d1-a102-930fd9a3dc92" />
+<img width="1536" height="512" alt="banner" src="https://github.com/user-attachments/assets/3e90b140-4eb9-40d1-a102-930fd9a3dc92" />
 
-- # 🤖 Robotics Learning Roadmap — From Basics to Advanced
+# 🤖 Robotics Learning Roadmap — From Basics to Advanced
 
-Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
+Welcome to the **Robotics Learning Roadmap**, a complete **3-month project** designed to take you from the basics of robotics to advanced mathematical and simulation concepts — including **Kinematics**, **Jacobians**, **Dynamics**, **Lagrangian/Hamiltonian Mechanics**, **Tensors**, and **PyBullet Simulations**.
 
 ---
 
@@ -24,12 +24,12 @@ Welcome to the **Robotics Learning Roadmap**, a complete 3-month project designe
 - **Week 9:** Trajectory Planning and Motion Control  
 - **Week 10:** PyBullet Pick-and-Place Simulation  
 - **Week 11:** Reinforcement Learning for Robotics  
-- **Week 12:** Final Project Showcase
-
+- **Week 12:** Final Project Showcase  
 
 ---
 
 ## 📚 Learning Goals
+
 By completing this roadmap, you will learn:
 
 - Foundations of **robotic motion**, **coordinate frames**, and **transformations**
@@ -42,6 +42,7 @@ By completing this roadmap, you will learn:
 ---
 
 ## 🚀 How to Use
+
 Each notebook is designed as a **Colab-ready** learning module.  
 Click the “Open in Colab” button under any topic to start coding and learning instantly.
 
@@ -62,27 +63,8 @@ Click the “Open in Colab” button under any topic to start coding and learnin
 ---
 
 ## ⚙️ Setup (Optional for Local Use)
+
 If you want to run the notebooks locally, install dependencies with:
 
 ```bash
-pip install numpy sympy matplotlib pybullet
-  
-
----
-
-## 🧩 Usage
-
-Each `.ipynb` notebook is **Google Colab compatible**.  
-Click **“Open in Colab”** or upload manually in JupyterLab / VSCode to explore.
-
----
-
-## 🧠 Prerequisites
-- Python 3.10+
-- Libraries: `numpy`, `sympy`, `matplotlib`, `pybullet`, `torch` (for RL parts)
-- Basic understanding of linear algebra, calculus, and classical mechanics
-
----
-
-## 🌟 Author
-Created for **Qazi-pk** as a complete roadmap to master robotics through physics and mathematics foundations.
+pip install numpy sympy matplotlib pybullet torch
