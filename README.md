@@ -55,6 +55,8 @@ Click the “Open in Colab” button under any topic to start coding and learnin
 | 1 | Introduction to Robotics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/1_Introduction.ipynb) |
 | 2 | Forward and Inverse Kinematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/2_Kinematics.ipynb) |
 | 3 | Dynamics of Robotic Manipulators | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/3_Dynamics.ipynb) |
+| 3 | Dynamics of Robotic Manipulators (Expanded Version) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/3_Dynamics_Expanded.ipynb) |
+
 | 4 | Jacobians and Differential Motion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/4_Jacobians.ipynb) |
 | 5 | Lagrangian and Hamiltonian Formulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/5_Lagrangian_and_Hamiltonian.ipynb) |
 | 6 | Tensors and Covariant Mathematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/6_Tensors_and_Covariant_Math.ipynb) |
