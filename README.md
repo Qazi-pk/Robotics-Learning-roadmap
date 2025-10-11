@@ -58,6 +58,7 @@ Click the “Open in Colab” button under any topic to start coding and learnin
 | 5 | Lagrangian and Hamiltonian Formulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/5_Lagrangian_and_Hamiltonian.ipynb) |
 | 6 | Tensors and Covariant Mathematics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/6_Tensors_and_Covariant_Math.ipynb) |
 | 7 | Robot Simulation in PyBullet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/7_Robot_Simulation_PyBullet.ipynb) |
+| 8 | Week 3 Expanded — Robot Dynamics (Full Derivations + Controllers) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week3_Robot_Dynamics_Expanded/3_Dynamics_Expanded.ipynb) |
 
 ---
 
