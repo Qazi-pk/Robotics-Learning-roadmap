@@ -67,3 +67,20 @@ If you want to run the notebooks locally, install dependencies with:
 
 ```bash
 pip install numpy sympy matplotlib pybullet
+
+---
+
+## 📘 Expanded Derivations Section
+Detailed Colab notebooks for symbolic and numerical derivations.
+
+| Week | Topic | Open in Colab |
+|------|--------|---------------|
+| 1 | Forward & Inverse Kinematics | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week1_Expanded/1_Kinematics_Expanded.ipynb) |
+| 2 | Jacobians and Velocity Mapping | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week2_Expanded/2_Jacobians_Expanded.ipynb) |
+| 3 | Dynamics of Manipulators | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week3_Expanded/3_Dynamics_Expanded.ipynb) |
+| 4 | Control Algorithms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week4_Expanded/4_Control_Expanded.ipynb) |
+| 5 | Path Planning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week5_Expanded/5_Path_Planning_Expanded.ipynb) |
+| 6 | Computer Vision in Robotics | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week6_Expanded/6_Computer_Vision_Expanded.ipynb) |
+| 7 | Deep Reinforcement Learning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week7_Expanded/7_Deep_RL_Expanded.ipynb) |
+| 8 | Simulation & PyBullet | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week8_Expanded/8_Simulation_Expanded.ipynb) |
+| 9 | Capstone Project | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week9_Expanded/9_Capstone_Expanded.ipynb) |
