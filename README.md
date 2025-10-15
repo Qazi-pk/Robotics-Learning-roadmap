@@ -1,47 +1,104 @@
-# 🤖 Robotics Learning Roadmap
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qazi-pk/Robotics-Learning-Roadmap/main/logo.png" alt="Robotics Learning Logo" width="160">
+</p>
 
-Welcome to **Qazi-pk's Robotics Learning Roadmap**, a structured 9-week journey from kinematics to deep reinforcement learning — with symbolic derivations, Python implementations, and interactive Colab notebooks.
+<h1 align="center">🤖 Robotics Learning Roadmap</h1>
 
----
-
-## 📅 9-Week Learning Schedule
-
-| Week | Topic | Description | Open in Colab |
-|------|--------|--------------|----------------|
-| 1 | **Forward & Inverse Kinematics** | Derivation of DH parameters, joint transformations, and inverse kinematics. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week1/1_Kinematics.ipynb) |
-| 2 | **Jacobians and Velocity Mapping** | Analytical & geometric Jacobians, singularities, and velocity propagation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week2/2_Jacobians.ipynb) |
-| 3 | **Dynamics of Manipulators** | Lagrangian formulation, equations of motion, and energy-based models. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week3/3_Dynamics.ipynb) |
-| 4 | **Control Algorithms** | PID, feedforward control, computed torque control, and stability. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week4/4_Control.ipynb) |
-| 5 | **Path Planning** | Configuration space, A*, RRT, and potential field methods. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week5/5_Path_Planning.ipynb) |
-| 6 | **Computer Vision in Robotics** | Camera models, image processing, and vision-based navigation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week6/6_Computer_Vision.ipynb) |
-| 7 | **Deep Reinforcement Learning** | Q-learning, DDPG, PPO, and applications in robot control. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week7/7_Deep_RL.ipynb) |
-| 8 | **Simulation & PyBullet** | PyBullet setup, robot URDFs, and environment control via Python. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week8/8_Simulation.ipynb) |
-| 9 | **Capstone Project** | Integrating all modules: control + vision + learning in simulation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week9/9_Capstone.ipynb) |
+<p align="center">
+  A structured 9-week journey from the foundations of robotics to advanced control and simulation — each week fully runnable in Google Colab.
+</p>
 
 ---
 
-## 🧩 Expanded Derivations Section
+## 🗓️ Weekly Modules
 
-Each expanded notebook combines **symbolic derivations (via SymPy)** and **numerical verification (via NumPy + PyBullet)**.
-
-| Week | Topic | Open in Colab |
-|------|--------|---------------|
-| 1 | Forward & Inverse Kinematics | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week1_Expanded/1_Kinematics_Expanded.ipynb) |
-| 2 | Jacobians and Velocity Mapping | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week2_Expanded/2_Jacobians_Expanded.ipynb) |
-| 3 | Dynamics of Manipulators | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week3_Expanded/3_Dynamics_Expanded.ipynb) |
-| 4 | Control Algorithms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week4_Expanded/4_Control_Expanded.ipynb) |
-| 5 | Path Planning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week5_Expanded/5_Path_Planning_Expanded.ipynb) |
-| 6 | Computer Vision in Robotics | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week6_Expanded/6_Computer_Vision_Expanded.ipynb) |
-| 7 | Deep Reinforcement Learning | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week7_Expanded/7_Deep_RL_Expanded.ipynb) |
-| 8 | Simulation & PyBullet | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week8_Expanded/8_Simulation_Expanded.ipynb) |
-| 9 | Capstone Project | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/Week9_Expanded/9_Capstone_Expanded.ipynb) |
+### **Week 1 — Introduction to Robotics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/1_Introduction.ipynb)
 
 ---
 
-## ⚙️ Installation
+### **Week 2 — Forward Kinematics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/2_Forward_Kinematics.ipynb)
 
-If you want to run the notebooks locally, install dependencies with:
+---
 
-```bash
-pip install numpy sympy matplotlib pybullet
+### **Week 3 — Inverse Kinematics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/3_Inverse_Kinematics.ipynb)
 
+---
+
+### **Week 4 — Differential Kinematics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/4_Differential_Kinematics.ipynb)
+
+---
+
+### **Week 5 — Dynamics using Newton–Euler**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/5_Dynamics_Newton_Euler.ipynb)
+
+---
+
+### **Week 6 — Lagrangian Dynamics**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/6_Lagrangian_Dynamics.ipynb)
+
+---
+
+### **Week 7 — Control of Robotic Manipulators**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/7_Control_of_Manipulators.ipynb)
+
+---
+
+### **Week 8 — Trajectory Planning**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/8_Trajectory_Planning.ipynb)
+
+---
+
+### **Week 9 — Capstone Project**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/9_Capstone.ipynb)
+
+---
+
+## 🧩 Expanded Versions
+
+Each expanded notebook contains detailed derivations, symbolic & numeric examples, and interactive widgets.
+
+| Week | Expanded Notebook |
+|------|--------------------|
+| 1 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/1_Introduction_Expanded.ipynb) |
+| 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/2_Forward_Kinematics_Expanded.ipynb) |
+| 3 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/3_Inverse_Kinematics_Expanded.ipynb) |
+| 4 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/4_Differential_Kinematics_Expanded.ipynb) |
+| 5 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/5_Dynamics_Newton_Euler_Expanded.ipynb) |
+| 6 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/6_Lagrangian_Dynamics_Expanded.ipynb) |
+| 7 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/7_Control_of_Manipulators_Expanded.ipynb) |
+| 8 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/8_Trajectory_Planning_Expanded.ipynb) |
+| 9 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qazi-pk/Robotics-Learning-Roadmap/blob/main/9_Capstone_Expanded.ipynb) |
+
+---
+
+## 🚀 Capstone Integration
+
+The **Capstone Project (Week 9)** connects this learning roadmap to your applied robotics repository:
+
+🔗 **[Visit Robotics Project Repository →](https://github.com/Qazi-pk/Robotics-Project)**
+
+There you’ll find:
+- Real robotic arm simulation projects (PyBullet / Python)
+- Lagrangian-based dynamics modeling
+- Control, sensing, and learning integration modules
+
+---
+
+## ⚙️ How to Use
+
+1. Click the **“Open in Colab”** badge for any week.  
+2. Run all cells in your browser (no setup required).  
+3. Explore symbolic derivations, visualize motions, and experiment interactively.
+
+---
+
+## 🧠 Author
+
+Developed by **Mohammed Hanif (Qazi-pk)**  
+📘 Focused on **AI, Robotics, and Control Systems**
+
+---
