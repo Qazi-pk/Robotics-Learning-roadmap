@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/48ec0b84-d4b0-415f-91e2-ff62fbdfa229" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Qazi-pk/Robotics-Learning-Roadmap/main/robotics_logo.png" alt="Robotics Learning Logo" width="250"/>
 </p>
